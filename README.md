@@ -9,3 +9,5 @@ Use slicers as interactive filtering tools to select and display specific data c
 
 Timeline Integration:
 Incorporate timelines to adjust the date range of the displayed data dynamically, enabling time-based analysis.
+
+You can read the workflow of this project and its explanation at https://medium.com/@heldakaer/microsoft-excel-learning-project-pivot-table-slicer-and-timeline-33c5644a42e7
